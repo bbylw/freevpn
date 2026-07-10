@@ -7,10 +7,9 @@
 
   
 ### :white_check_mark:[EMO](https://good.emoyyds.top/#/register?code=7KLxhYOS)  
-免费：300G/月。
-最低付费套餐：6元/1000G/月（不限终端，不限速，解锁流媒体）  
-![Image text](https://github.com/deezertidal/freevpn/blob/main/img/EMO.png)  
+3元 10G/月；6元 100G/月 
 
 
 
+****
 * 如需付费机场，请移步至[中高端机场分享](https://github.com/deezertidal/fee-based/blob/main/README.md)  
